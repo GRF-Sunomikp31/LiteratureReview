@@ -181,9 +181,3 @@ ORB-SLAM2是一个完整的SLAM系统，接受Monocular、Stereo and RGB-D传感
 作者开源了ORB-SLAM2的源代码，该源代码还包含一个使用单目相机的[AR应用程序](https://www.youtube.com/watch?v=kPwy8yA4CKM)；
 
 **未来的扩展可能包括**：非重叠多摄像头、鱼眼或者全景摄像头支持、大尺度的稠密融合、协同建图或者是增强运动模糊鲁棒性。
-
-## References（LiteratureReview）
-
-- [4]：KinectFusion: Real-time dense surface mapping and tracking. 2011 ISMAR
-- [5]：Large-scale 6-DOF SLAM with stereo-in-hand. 2008 TRO
-- [11]：Large-scale direct SLAM with stereo cameras  .2015 IROS
